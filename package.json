@@ -1,0 +1,27 @@
+{
+  "name": "2dv513_ass2",
+  "version": "0.0.1",
+  "description": "SQLite setup, querying, JSON parsing and DB-insertion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersmelin/2dv513_ass2.git"
+  },
+  "keywords": [
+    "SQLite",
+    "JSON",
+    "2dv513"
+  ],
+  "author": "Anders Melin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersmelin/2dv513_ass2/issues"
+  },
+  "homepage": "https://github.com/andersmelin/2dv513_ass2#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}
